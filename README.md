@@ -48,17 +48,3 @@ A glimpse of your current work under progress will do wonders and may be the fir
 ## [Under Building](https://github.com/ugurcandede/Under-Construction/tree/master/under%20building)
 
 ![Under Building](https://raw.githubusercontent.com/ugurcandede/Under-Construction/master/under%20building/Capture.PNG)
-
-----------
-
-
-## [Under Construction Page](https://github.com/ugurcandede/Under-Construction/tree/master/under-construction-page)
-
-![Under Construction Page](https://raw.githubusercontent.com/ugurcandede/Under-Construction/master/under-construction-page/Capture.PNG)
-
-----------
-
-
-## [Under Construction](https://github.com/ugurcandede/Under-Construction/tree/master/under-construction)
-
-![Under Construction](https://raw.githubusercontent.com/ugurcandede/Under-Construction/master/under-construction/Capture.PNG)
