@@ -8,43 +8,6 @@ A critical turning point in theme redesign is made by most brands when new techn
 
 A glimpse of your current work under progress will do wonders and may be the first part of marketing to make visitors know more of it.
 
-## [BabelJS UC](https://github.com/ugurcandede/Under-Construction/tree/master/BabelJS%20UC)
-
-![BabelJS UC](https://raw.githubusercontent.com/ugurcandede/Under-Construction/master/BabelJS%20UC/BabelJSUC.PNG)
-
-
-----------
-
-
-## [Canvas Line](https://github.com/ugurcandede/Under-Construction/tree/master/Canvas%20line)
-![Canvas Line](https://raw.githubusercontent.com/ugurcandede/Under-Construction/master/Canvas%20line/Capture.PNG)
-
-
-----------
-
-
-## [City Construction Site](https://github.com/ugurcandede/Under-Construction/tree/master/city-construction-site)
-
-![City Construction Site](https://raw.githubusercontent.com/ugurcandede/Under-Construction/master/city-construction-site/Capture.PNG)
-
-
-----------
-
-
-## [Construction Scene](https://github.com/ugurcandede/Under-Construction/tree/master/construction-scene)
-
-![Construction Scene](https://raw.githubusercontent.com/ugurcandede/Under-Construction/master/construction-scene/Capture.PNG)
-
-
-----------
-
-## [Simple Coming Soon or Under Construcion (Flat Design)](https://github.com/ugurcandede/Under-Construction/tree/master/simple-coming-soon-or-under-construcion-flat-design)
-
-![Simple Coming Soon or Under Construcion (Flat Design)](https://raw.githubusercontent.com/ugurcandede/Under-Construction/master/simple-coming-soon-or-under-construcion-flat-design/Capture.PNG)
-
-----------
-
-
 ## [Under Building](https://github.com/ugurcandede/Under-Construction/tree/master/under%20building)
 
 ![Under Building](https://raw.githubusercontent.com/ugurcandede/Under-Construction/master/under%20building/Capture.PNG)
