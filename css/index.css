@@ -1,0 +1,253 @@
+html {
+    font-family: Helvetica;
+}
+
+body {
+    position: relative;
+    height: 100vh;
+}
+
+@media screen and (max-width: 649px) {
+    /* Rules for small screens */
+
+    .desktop {
+        display: none;
+    }
+
+    .remove {
+        display: none;
+    }
+
+    .pt {
+        padding-top: 0.5rem !important;
+    }
+
+    .mt {
+        margin-top: 0.5rem !important;
+    }
+
+    svg {
+        position: absolute;
+        top: 35%;
+        left: 40%;
+        transform: translate(-50%, -50%);
+        display: none;
+        }
+    
+        text {
+            font-size: 2rem;
+            stroke: #000000;
+            stroke-width: 1.3px;
+            stroke-dasharray: 1000;
+            stroke-dashoffset: 1000;
+            fill: transparent;
+            animation: dash 5s ease-out forwards;
+            display: none;
+        }
+    
+        @keyframes dash {
+            from {
+                stroke-dashoffset: 1000;
+            }
+    
+            to {
+                stroke-dashoffset: 500;
+                fill: black;
+            }
+        }
+        .w-50 {
+            width: 100% !important;
+            }
+}
+
+/* @media screen and (min-width: 650px) and (max-width: 999px) {
+    .mobile {
+        display: none;
+    }
+
+    
+
+    svg {
+        position: absolute;
+        top: 35%;
+        left: 40%;
+        transform: translate(-50%, -50%);
+        display: none;
+    }
+
+    text {
+        font-size: 2rem;
+        stroke: #000000;
+        stroke-width: 1.3px;
+        stroke-dasharray: 1000;
+        stroke-dashoffset: 1000;
+        fill: transparent;
+        animation: dash 5s ease-out forwards;
+        display: none;
+    }
+
+    @keyframes dash {
+        from {
+            stroke-dashoffset: 1000;
+        }
+
+        to {
+            stroke-dashoffset: 500;
+            fill: black;
+        }
+    }   
+
+    .remove {
+        display: none;
+    }
+} */
+
+/* desktop */
+@media screen and (min-width: 1000px) {
+
+
+    .backend{
+        content: url("/assets/backend_1280.avif");
+    }
+    .frontend{
+        content: url("/assets/frontend_1280.avif");
+    }
+    .design{
+        content: url("/assets/design_1280.avif");
+    }
+    
+    .service-card:hover{
+    box-shadow: 10px 10px 10px rgba(83, 82, 82, 0.42);
+    transform:scale(1.1);
+    z-index: 10;
+    }
+
+    .card{
+        transition:.4s;
+        
+    }
+
+    .corner-ribbon{
+  width: 200px;
+  background: #e43;
+  top: 25px;
+  left: -50px;
+  text-align: center;
+  line-height: 50px;
+  letter-spacing: 1px;
+  color: #f0f0f0;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  /* Pay attention! */
+  z-index: 1;
+  position: fixed;
+}
+
+/* Custom styles */
+
+.corner-ribbon.sticky{
+  position: fixed;
+}
+
+.corner-ribbon.shadow{
+  box-shadow: 0 0 3px rgba(0,0,0,.3);
+}
+
+.corner-ribbon.bottom-left{
+  top: auto;
+  bottom: 25px;
+  right: 50px;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+
+
+/* Colors */
+.corner-ribbon.blue{background: #39d;}
+
+
+    .mobile{
+        display: none;
+    }
+
+    .pdf-viewer{
+        width: 100%;
+        height: 700px;
+    }
+
+    .remove{
+        display: none;
+    }
+
+    .resume{
+        height: 700px;
+    }
+    
+    #githubButton{ 
+        color:black;        
+    }
+    #linkedInButton{ 
+        color:black;        
+    }
+    #twitterButton{ 
+        color:black;        
+    }
+    #mailButton{ 
+        color:black;        
+    }
+
+    .fs-6 {
+        font-size: calc(1.325rem + .9vw) !important;
+    }
+
+    .pt {
+        padding-top: 3rem !important;
+    }
+
+    .mt {
+        margin-top: 3rem !important;
+    }
+
+    /* .mobile{
+        display: none;
+    } */
+
+    .text-end {
+        text-align: right !important;
+    }
+
+
+    svg {
+        position: absolute;
+        top: 28%;
+        left: 43%;
+        transform: translate(-50%, -50%)
+    }
+
+    text {
+        font-size: 3rem;
+        stroke: #000000;
+        stroke-width: 2.3px;
+        stroke-dasharray: 1000;
+        stroke-dashoffset: 1000;
+        fill: transparent;
+        animation: dash 5s ease-out forwards;
+
+    }
+
+    @keyframes dash {
+        from {
+            stroke-dashoffset: 1000;
+        }
+
+        to {
+            stroke-dashoffset: 500;
+            fill: black;
+        }
+    }
+}
+
+.nav-link:hover{
+    cursor: pointer;
+}
+
